@@ -12,7 +12,8 @@ Aполипопротеин E4 (участвует в метаболизме л�
 
 Форма белкового остова, сгенерированного с помощью RFDiffusion:
 ![image1](/media/RFdiffusion_result.png)
-<video controls src="media/video_pred.mp4" title="Title"></video>
+
+https://github.com/user-attachments/assets/13d775b6-ff9f-4e6c-9bd5-c6fbca80b2dd
 
 Сгенерированные сиквенсы:
 ![image1](/media/best_model.png)
@@ -25,10 +26,6 @@ Aполипопротеин E4 (участвует в метаболизме л�
 
 Показатели ipTM и pTM достаточно высокие.
 Итоговый результат:
-
-<video controls src="media/video.mp4" title="Title"></video>
-
-
 
 https://github.com/user-attachments/assets/254c403f-7fb2-446e-adc9-863fa81d3cc2
 
