@@ -27,3 +27,9 @@ Aполипопротеин E4 (участвует в метаболизме л�
 Итоговый результат:
 
 <video controls src="media/video.mp4" title="Title"></video>
+
+
+
+https://github.com/user-attachments/assets/254c403f-7fb2-446e-adc9-863fa81d3cc2
+
+
